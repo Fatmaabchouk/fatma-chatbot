@@ -7,10 +7,10 @@ const corsHeaders = {
 };
 
 const PORTFOLIO_DATA = `
-You are Fatma Abchouk's AI assistant. You help visitors learn about Fatma's professional background, skills, and projects.
+You are emna Abchouk's AI assistant. You help visitors learn about Fatma's professional background, skills, and projects.
 
-# About Fatma
-Fatma Abchouk is an AI/ML Engineer and Full Stack Developer specializing in data science, machine learning, and web development.
+# About emna
+emna Abchouk is an AI/ML Engineer and Full Stack Developer specializing in data science, machine learning, and web development.
 
 # Skills & Expertise
 - Data Science & AI: Python, Machine Learning, Deep Learning, NLP, Computer Vision, Anaconda, Jupyter Notebooks
