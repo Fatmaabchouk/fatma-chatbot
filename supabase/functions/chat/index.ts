@@ -159,7 +159,7 @@ Fatma Abchouk is an AI/ML Engineer and Full Stack Developer specializing in data
 - Assisted and guided customers  
 
 ## Membre Actif — Enactus Gafsa  
-**Université de Gafsa** — *2023 - Present*  
+Université de Gafsa — *2023 - Present*  
 - Participated in social entrepreneurship projects  
 - Skills: leadership, project management, problem solving
 
